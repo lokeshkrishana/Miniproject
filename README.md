@@ -1,18 +1,17 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## TITLE 
+AI BASED PICTURE TRANSLATION
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Language limitations continue to be a significant impediment to successful communication and comprehension in a time of unparalleled global connectivity. Transcending linguistic barriers has significant ramifications for a variety of industries, from tourism and education to healthcare and international trade. The merging of computer vision and natural language processing explores the revolutionary potential of artificial intelligence (AI) in overcoming these obstacles.It focuses particularly on the developing field of AI-based picture translation, a scientific advancement that will fundamentally alter how people engage with visual content in a variety of language contexts. This research aims to clarify the methodology underlying picture translation and throw light on its numerous applications by utilizing cutting-edge methods like Convolutional Neural Networks (CNNs) and sequence-to-sequence models. This study ultimately aims to highlight the enormous promise this subject has, while also addressing the obstacles that lie ahead in this growing world of AI-driven language solutions. This is accomplished through a thorough exploration of case studies and assessment metrics.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+1.Text Detection and Extraction
+2.Language Detection
+3.Real-Time Translation
+4.Augmented Reality (AR) Overlays
+5.Contextual Understanding
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
@@ -26,19 +25,22 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
+![Screenshot 2024-11-13 091457](https://github.com/user-attachments/assets/c91c7fd3-534a-46c8-80d8-b55fdf686805)
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
+![Screenshot 2024-11-13 091828](https://github.com/user-attachments/assets/e93ba831-6a71-47cd-ac43-2bf915f21bee)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![Screenshot 2024-11-13 091723](https://github.com/user-attachments/assets/b60b7cee-4425-4a68-8c1d-c9f3d5e3bf3c)
+
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
@@ -46,13 +48,13 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+A wider audience can access information in photographs thanks to AI-based picture translation apps that remove language barriers. Users who may not be fluent in the language can nevertheless easily understand the information.The program makes use of cutting-edge technology, such as deep learning models for machine translation and language identification, as well as image processing and OCR for text detection and extraction.
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1]A. Panayiotou, A. Gardner, S. Williams, E. Zucchi, M. Mascitti-Meuter et al., “Language translation apps in health care settings: Expert opinion,” JMIR mHealth and uHealth, vol. 7, no. 4, pp. e11316, 2019.
+[2]C. Tsihouridis, D. Vavougios, M. Batsila and G. Ioannidis, “The optimum equilibrium when using experiments in teaching where virtual and real labs stand in science and engineering teaching practice,” International Journal of Emerging Technologies in Learning (iJET), vol. 14, no. 23, pp. 67– 84, 2019.
 
 
 
